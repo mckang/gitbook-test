@@ -3,5 +3,7 @@
 ```markdown
 [naver](https://naver.com){:target="_blank"}
 ```
-[naver](https://naver.com){:target="_blank" rel="noopener"}
-<a herf="https://naver.com" targer="_blank">naver</a>
+
+[naver](https://naver.com){:target="\_blank" rel="noopener"} naver
+
+naver https://naver.com
